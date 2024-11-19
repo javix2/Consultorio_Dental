@@ -1,0 +1,52 @@
+/* Estilo para el contenedor del calendario */
+.full-calendar {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #f9f9f9;
+}
+
+/* Estilo para los eventos del calendario */
+.fc-event {
+  background-color: #007bff; /* azul */
+  border-color: #007bff; /* borde azul */
+  color: #fff; /* texto blanco */
+}
+
+/* Estilo para la cabecera del calendario */
+.fc-header-toolbar {
+  background-color: #f0f0f0; /* gris claro */
+  border-radius: 5px;
+  padding: 5px;
+}
+
+/* Estilo para los botones de navegación del calendario */
+.fc-header-toolbar button {
+  background-color: #007bff; /* azul */
+  border-color: #007bff; /* borde azul */
+  color: #fff; /* texto blanco */
+  margin-right: 5px;
+}
+
+/* Estilo para el título del evento */
+.fc-title {
+  font-size: 16px;
+}
+
+/* Estilo para el botón de agregar evento */
+.fc-add-event-button {
+  background-color: #28a745; /* verde */
+  border-color: #28a745; /* borde verde */
+  color: #fff; /* texto blanco */
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+/* Estilo para el botón de hoy */
+.fc-today-button {
+  background-color: #dc3545; /* rojo */
+  border-color: #dc3545; /* borde rojo */
+  color: #fff; /* texto blanco */
+  padding: 5px 10px;
+  border-radius: 5px;
+}
